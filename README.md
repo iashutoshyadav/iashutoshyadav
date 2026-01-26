@@ -1,63 +1,85 @@
-# 👋 Hi, I'm Ashutosh Yadav
+<p align="center">
+  <h1 align="center">Ashutosh Yadav</h1>
+  <p align="center">
+    Full-Stack Web Developer • MERN Stack • Product-Driven Engineer
+  </p>
+</p>
 
-🚀 **Aspiring Full-Stack Web Developer (MERN Stack)**  
-🎓 BTech Student | Passionate about building real-world web applications
-
-I’m a curious and driven web developer who loves turning ideas into scalable, user-friendly products. I enjoy working across the stack — from clean UI design to robust backend logic — and I’m continuously improving my skills by building projects and learning modern technologies.
-
-Currently, I’m focused on **MERN Stack Development**, writing clean code, and understanding how real production systems work.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### 💻 Programming & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+<p align="center">
+  <a href="https://linkedin.com/in/ashutosh-yadav-401208290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yadavashutosh162@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📌 What I’m Currently Working On
-- 🔹 MERN Stack Projects
-- 🔹 Improving DSA & problem-solving skills
-- 🔹 Writing clean, scalable backend APIs
-- 🔹 Learning best practices for production-ready apps
+## 🧠 About
+
+I’m a **full-stack web developer** focused on building **scalable, SaaS-ready web applications** with clean UX and reliable backend systems.
+
+I enjoy working at the intersection of **product, performance, and engineering**, and I’m currently sharpening my skills in **MERN stack development**, system design basics, and production-grade workflows.
+
+> I like shipping things that actually work.
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Tech I Use
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashutosh-yadav-401208290)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:yadavashutosh162@gmail.com)
+**Frontend**
+- React.js, Next.js
+- Tailwind CSS
+- HTML, CSS, JavaScript, TypeScript
+
+**Backend**
+- Node.js, Express
+- MongoDB, MySQL
+- REST APIs, Auth, Cookies, JWT
+
+**Tools & Platform**
+- Git & GitHub
+- Apache
+- Canva (UI / branding)
+- Basic CI/CD & deployment workflows
 
 ---
 
-## 📊 GitHub Stats
+## 📦 What I’m Building
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashutoshyadav&show_icons=true&theme=dark)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iashutoshyadav&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iashutoshyadav&layout=compact&theme=dark)
+- SaaS-style **Task Manager** with auth & roles  
+- Full-stack MERN applications  
+- Real-world CRUD + API-driven projects  
+- Production-ready backend services
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=iashutoshyadav&icon=2&color=12)
+## 📊 Metrics
 
-✨ *Always learning. Always building.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iashutoshyadav&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iashutoshyadav&theme=dark" />
+</p>
+
+---
+
+## 🧩 Currently Learning
+
+- Scalable backend patterns  
+- Clean architecture & API design  
+- DSA for interviews  
+- SaaS best practices
+
+---
+
+<p align="center">
+  <i>Building in public. Learning every day.</i>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=iashutoshyadav&icon=2&color=12" />
+</p>
