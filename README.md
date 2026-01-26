@@ -1,18 +1,63 @@
-# 💫 About Me:
-Hi, I'm Ashutosh Yadav, a passionate and curious Web Developer student learning to build modern, responsive, and user-friendly websites. I enjoy turning ideas into real web applications using technologies like HTML, CSS, JavaScript, Node.js, React.js and MongoDB.<br><br>I'm currently improving my skills in MERN Stack Development and love working on personal projects that solve real-world problems.
+# 👋 Hi, I'm Ashutosh Yadav
 
+🚀 **Aspiring Full-Stack Web Developer (MERN Stack)**  
+🎓 BTech Student | Passionate about building real-world web applications
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/ashutosh-yadav-401208290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavashutosh162@gmail.com) 
+I’m a curious and driven web developer who loves turning ideas into scalable, user-friendly products. I enjoy working across the stack — from clean UI design to robust backend logic — and I’m continuously improving my skills by building projects and learning modern technologies.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iashutoshyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iashutoshyadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iashutoshyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I’m focused on **MERN Stack Development**, writing clean code, and understanding how real production systems work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iashutoshyadav&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+### 💻 Programming & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 📌 What I’m Currently Working On
+- 🔹 MERN Stack Projects
+- 🔹 Improving DSA & problem-solving skills
+- 🔹 Writing clean, scalable backend APIs
+- 🔹 Learning best practices for production-ready apps
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashutosh-yadav-401208290)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:yadavashutosh162@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iashutoshyadav&show_icons=true&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iashutoshyadav&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iashutoshyadav&layout=compact&theme=dark)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=iashutoshyadav&icon=2&color=12)
+
+✨ *Always learning. Always building.*
