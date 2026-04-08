@@ -179,8 +179,6 @@ const ME: Developer = Developer {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-five-tau-rlrtavqmfo.vercel.app/api?username=iashutoshyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
